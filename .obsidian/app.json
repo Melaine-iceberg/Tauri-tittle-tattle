@@ -1,4 +1,7 @@
 {
   "openBehavior": "new",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true
 }
